@@ -7,17 +7,18 @@ Submitted by - Manmeet Singh Rekhi
 We are predicting the parameters Para-9, Para-10, Para-11, Para-12, and Para-13 for year 10 from a 10-year dataset from an IoT sensor on the road.
 
 ## Model Used
-Gradient Boosting
-Bayesian Ridge
-Kernel Ridge
-SVR
+We have used 
+<ul>Bayesian Ridge</ul>
+<ul>Kernal Ridge</ul>
+<ul>Gradient Boosting</ul>
+<ul>SVR</ul>
+for solving this problem.
 
 ## Results
-The accuracies of the models are as follows:
-Gradient Boosting - 38.077878057313136
-Bayesian Ridge - 77.04498657347882
-Kernel Ridge - 106.8198639364674
-SVR - 75.34074307174144
+The RMSE value of models are:-
+<ol>Bayesian Ridge    --> 77.04498657347882</ol>
+<ol>Kernal Ridge      --> 106.81986414973701</ol>
+<ol>Gradient Boosting --> 38.077878057313136</ol>
+<ol>SVR               --> 75.34074307174144</ol>
 
-# Best Model
-Based on the RMSE values obtained, the best model for the time series dataset prediction is Gradient Boosting.
+## RMSE value of best model is 38.0778 by Gradient Boosting

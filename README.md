@@ -14,10 +14,10 @@ SVR
 
 ## Results
 The accuracies of the models are as follows:
-Gradient Boosting - 38.077878057313136
-Bayesian Ridge - 77.04498657347882
-Kernel Ridge - 106.8198639364674
-SVR - 75.34074307174144
+<ul>Gradient Boosting - 38.077878057313136</ul>
+<ul>Bayesian Ridge - 77.04498657347882/ul>
+<ul>Kernel Ridge - 106.8198639364674/ul>
+<ul>SVR - 75.34074307174144/ul>
 
 # Best Model
 Based on the RMSE values obtained, the best model for the time series dataset prediction is Gradient Boosting.
